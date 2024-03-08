@@ -1,5 +1,5 @@
-<h2 align="left">Hi 👋, I am Emmanuel Erogo Esibitar</h2>
-<p align="left">I'm a passionate Java Android developer. I thrive in the dynamic world of android, constantly exploring new avenues to apply cutting-edge technology.</p>
+<h2 align="left">Hello 👋, my name is Emmanuel Erogo Esibitar</h2>
+<p align="left">I am a passionate Java Android developer. I thrive in the dynamic world of android, constantly exploring new avenues to apply cutting-edge technology.</p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on some cool Android application project
 
